@@ -19,7 +19,7 @@ This project uses a dataset of grayscale images of handwritten English character
 
 * **Source:** English Handwritten Characters Dataset
 * **Size:** Approximately 200,000 images of handwritten English characters.
-**Format:**
+* **Format:**
     * **Images:** Grayscale PNG images of handwritten English characters.
     * **CSV File:** english.csv - contains image file paths and corresponding labels.
 
